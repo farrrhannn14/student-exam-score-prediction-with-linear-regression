@@ -4,8 +4,8 @@ This project aims to predict student exam scores based on study hours, sleep hou
 
 ## Project Overview
 * **Problems:** Is study time the only thing that affects exam scores, or are there other factors, such as sleep hours and their score history?
-* **Tujuan:** Building a prediction model to help students estimate their score based on their academic habits.
-* **Dataset:** Dummy data containing student identities, study hours, sleep hours, attendance rates, and score history.
+* **Objective:** Building a prediction model to help students estimate their score based on their academic habits
+* **Dataset:** Dummy data containing student identities, study hours, sleep hours, attendance rates, and score history
 
 ## Tech Stack
 * **Language:** `Python`
@@ -19,7 +19,7 @@ This project aims to predict student exam scores based on study hours, sleep hou
 ## Model Performance
 This project uses and compares three algorithms:
 
-| Model | RMSE (Error Poin) | R2 Score |
+| Model | RMSE (Error Poin) | $R^2$ Score |
 |-------|-------------------|----------|
 | **Linear Regression** | 2.76 | 0.87 |
 | Random Forest | 3.41 | 0.80 |
